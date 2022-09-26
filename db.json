@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Jake",
+      "age": 30,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Jane",
+      "age": 31,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Jamie",
+      "age": 32,
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "Jaime",
+      "age": 33,
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "Jacob",
+      "age": 34,
+      "active": true
+    },
+    {
+      "name": "Jasmine",
+      "age": 50,
+      "active": true,
+      "id": 6
+    }
+  ]
+}
